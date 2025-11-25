@@ -90,6 +90,4 @@ Deploy model using Flask or Streamlit
 
 **🧑‍💻 Author**
 JIYA KATARIA
-
-Your Name
 Feel free to give a ⭐ on the repository if you liked the project!
